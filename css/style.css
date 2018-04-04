@@ -1,0 +1,11 @@
+container {
+    margin: 30px;
+}
+
+#js-newGameButton {
+    margin: 30px 0;
+}
+
+#js-resultsTableElement {
+	margin-top:40px;
+}
